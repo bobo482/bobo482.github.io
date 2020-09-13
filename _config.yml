@@ -1,11 +1,11 @@
 # Site settings
-title: Globien Interlingu
+title: Pandownload
 SEOTitle: Globien - Makes Communication Easier
-header-img: img/post-bg-desk.jpg
-email: globien@outlook.com
-description: "Easy to learn, no more hard work to recite vocabulary."
-keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
-url: "https://globien.github.io"          # your host, for absolute URL
+header-img: img/about-someone.jpg
+email: 2973901381@qq.com
+description: "Pandownload"
+keyword: "Pandownload"
+url: "https://bobo482.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
 
